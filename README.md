@@ -1,2 +1,2 @@
 # Slider
-Slider for view some pictures. Buttons forward ans back to change picture
+Slider for view some pictures. Buttons forward and back to change picture
